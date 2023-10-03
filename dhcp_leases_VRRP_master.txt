@@ -1,0 +1,7 @@
+Flags: X - disabled, R - radius, D - dynamic, B - blocked 
+ #   ADDRESS            MAC-ADDRESS       HOS... SERVER    RAT... STATUS 
+ 0   ;;; oct/03/2023 06:39:24 PC1
+     192.168.100.252    00:50:79:66:68:00 PC1    dhcp1            bound  
+ 1   ;;; oct/03/2023 07:01:11 osboxes
+     192.168.100.251    0C:DA:D5:E0:00:00 osb... dhcp1            bound  
+
